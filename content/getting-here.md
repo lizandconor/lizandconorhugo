@@ -11,7 +11,7 @@ draft: false
 The nearest airports to Victoria are listed below. 
 We recommend booking in good time to get the best fares, and consider doing a multi-city trip.
 
- * Victoria International Airport (YYJ) (_approx. 35 minutes from the city centre by [shuttle bus](https://yyjairportshuttle.com/)_)
+ * Victoria International Airport (YYJ) (_approx. 35 minutes from the city centre by [shuttle bus](https://yyjairportshuttle.com/)_) 	
  * Vancouver International Airport (YVR)
  * Seattle-Tacoma (Sea-Tac) International Airport (SEA)
 
