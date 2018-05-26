@@ -16,7 +16,9 @@ We recommend booking in good time to get the best fares, and consider doing a mu
  * Seattle-Tacoma (Sea-Tac) International Airport (SEA)
 
 ### Sea Plane
+
 For a once-in-a-lifetime experience, you can fly by sea plane between Vancouver and Victoria with [Harbour Air](https://www.harbourair.com)
+
 
 ## Ferries
 
@@ -28,6 +30,7 @@ For a once-in-a-lifetime experience, you can fly by sea plane between Vancouver 
  
 ### From Seattle
  
-  * [Clipper Vacations](https://www.clippervacations.com/seattle-victoria-ferry/) operate a ferry from Seattle to Victoria
+  * [Clipper Vacations](https://www.clippervacations.com/seattle-victoria-ferry/) operate a ferry from Seattle to Victoria.  
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1dw9U9NW2JYYAZRIlnR67GinF5Hsa8Ein&hl=en" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1dw9U9NW2JYYAZRIlnR67GinF5Hsa8Ein&hl=en" width="100%" height="480"></iframe>
+

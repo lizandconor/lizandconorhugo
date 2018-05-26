@@ -25,6 +25,6 @@ Reception dinner & at the **Beach House**, Cordova Bay
  * A bus will take guests back to Victoria city centre around 1 am
  * Cars may be left at the Beach House overnight
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1YTNMBcE8uDe74R4PHDETdcJE_7yyMOoy" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1YTNMBcE8uDe74R4PHDETdcJE_7yyMOoy" width="100%" height="480"></iframe>
 <br>
 
