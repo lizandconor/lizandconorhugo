@@ -1,7 +1,7 @@
 baseurl = "https://lizandconor.com/cd6a7b8768528485a0dbcd459185091e80dc28ad/"
 languageCode = "en-us"
 title = "Liz & Conor's Wedding"
-theme = "hugo-strata-theme"
+theme = "airspace-hugo"
 # disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
