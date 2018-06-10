@@ -84,7 +84,7 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/sailing.jpg"
 			thumb = "thumbs/sailing.jpg"
-			title = "Sailing, Vancouver Island, 2015"
+			title = "Vancouver Island, 2015"
 			description = ""
 
 		[[params.portfolio.gallery]]

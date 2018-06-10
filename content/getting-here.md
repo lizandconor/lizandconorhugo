@@ -7,7 +7,7 @@ draft: false
 ## Electronic Travel Authorization
 Guests coming from Ireland, the UK and other [visa-exempt countries](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html) will need an Electronic Travel Authorization (eTA).
 You can apply for an eTA on the [Government of Canada website](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html).
-The application process costs CAD $7 only takes a few minutes. 
+The application process costs CAD $7 and only takes a few minutes. 
 
 ## Flights
 
