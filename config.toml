@@ -27,7 +27,7 @@ paginate = 10
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = "beach_house.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "**Liz & Conor**"
 		subbio = [
@@ -64,35 +64,52 @@ paginate = 10
 		# Create and change subfolders as you like
 
 		[[params.portfolio.gallery]]
-			image = "fulls/new_college_ball.jpg"
-			thumb = "thumbs/new_college_ball.jpg"
-			title = "New College Ball, Oxford"
+			image = "fulls/golfing.jpg"
+			thumb = "thumbs/golfing.jpg"
+			title = "Vancouver, 2018"
 			description = ""
 
 		[[params.portfolio.gallery]]
-			image = "fulls/peroni.jpg"
-			thumb = "thumbs/peroni.jpg"
-			title = "L'Antica Birreria Peroni, Rome"
-			description = ""
-
-		[[params.portfolio.gallery]]
-			image = "fulls/lizonsite.jpg"
-			thumb = "thumbs/lizonsite.jpg"
-			title = "Liz on site in northern Alberta"
-			description = ""
-
-		[[params.portfolio.gallery]]
-			image = "fulls/conoronsite.jpg"
-			thumb = "thumbs/conoronsite.jpg"
-			title = "Conor on site in Doha"
+			image = "fulls/california.jpg"
+			thumb = "thumbs/california.jpg"
+			title = "California, 2017"
 			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/kylemore.jpg"
 			thumb = "thumbs/kylemore.jpg"
-			title = "Connemara National Park, Co. Galway"
+			title = "Connemara, 2016"
 			description = ""
 
+		[[params.portfolio.gallery]]
+			image = "fulls/sailing.jpg"
+			thumb = "thumbs/sailing.jpg"
+			title = "Sailing, Vancouver Island, 2015"
+			description = ""
+
+		[[params.portfolio.gallery]]
+			image = "fulls/liz_grad.jpg"
+			thumb = "thumbs/liz_grad.jpg"
+			title = "Oxford, 2014"
+			description = ""
+
+		[[params.portfolio.gallery]]
+			image = "fulls/peroni.jpg"
+			thumb = "thumbs/peroni.jpg"
+			title = "Rome, 2013"
+			description = ""
+
+		[[params.portfolio.gallery]]
+			image = "fulls/bruges.jpg"
+			thumb = "thumbs/bruges.jpg"
+			title = "Bruges, 2012"
+			description = ""
+
+		[[params.portfolio.gallery]]
+			image = "fulls/punting.jpg"
+			thumb = "thumbs/punting.jpg"
+			title = "Oxford, 2011"
+			description = ""
 
 	[params.recentposts]
 		hide  = true
@@ -100,7 +117,7 @@ paginate = 10
 
 	[params.rss]
 		hide = true
-		
+
 	[params.contact]
 		hide  = true
 		title = "Contact Us"
