@@ -6,9 +6,9 @@ draft: false
 
 We have listed some sightseeing ideas and useful links below.
 
- * Hello BC - http://www.hellobc.com
- * Whale watching
- * Skiing at Whistler-Blackcomb (_Blackcomb mountain remains open until mid-May_)
+ * [Vancouver sightseeing](https://www.hellobc.com/places-to-go/vancouver/)
+ * [Victoria sightseeing](https://www.hellobc.com/places-to-go/victoria/)
+ * [Whale watching](https://www.hellobc.com/things-to-do/whale-watching)
+ * [Skiing at Whistler-Blackcomb](https://www.whistlerblackcomb.com/) (_Blackcomb mountain remains open until mid-May_)
  * [Victoria Ale Trail](https://bcaletrail.ca/ale-trails/victoria/)
  * [Butchart Gardens](https://www.butchartgardens.com/)
- 
