@@ -1,5 +1,5 @@
 ---
-title: "Programme"
+title: "Events"
 date: 2017-12-31T10:42:54-08:00
 draft: false
 ---
@@ -19,7 +19,7 @@ Wedding ceremony at **St David's Church**, Cordova Bay
  * St David's is a 20 minute drive from downtown Victoria
 
 ### Evening (_until 12:30 am_)
-Reception dinner & at the **Beach House**, Cordova Bay
+Reception at the **Beach House**, Cordova Bay
 
  * The Beach House is a 5 minute walk from St David's church
  * A bus will take guests back to Victoria city centre around 1 am

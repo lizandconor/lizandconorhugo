@@ -154,8 +154,8 @@ paginate = 10
 # Menu links that appear on the left sidebar
 
 [[menu.main]]
-	name = "Programme"
-	url  = "programme"
+	name = "Events"
+	url  = "events"
 	weight = 2
 
 [[menu.main]]
