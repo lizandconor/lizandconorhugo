@@ -7,14 +7,13 @@ draft: false
 ## Electronic Travel Authorization
 Guests coming from Ireland, the UK and other [visa-exempt countries](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html) will need an Electronic Travel Authorization (eTA).
 You can apply for an eTA on the [Government of Canada website](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html).
-The application process costs CAD $7 and only takes a few minutes. 
+The application process costs CAD $7 and only takes a few minutes.
 
 ## Flights
 
 ### Airports
 
-The nearest airports to Victoria are listed below.
-We recommend booking in good time to get the best fares, and consider doing a multi-city trip.
+The most convenient airports for Victoria are listed below.
 
  * Victoria International Airport (YYJ) (_approx. 35 minutes from the city centre by [shuttle bus](https://yyjairportshuttle.com/)_) 	
  * Vancouver International Airport (YVR)
@@ -36,5 +35,7 @@ For a once-in-a-lifetime experience, you can fly by sea plane between Vancouver 
 ### From Seattle
 
   * [Clipper Vacations](https://www.clippervacations.com/seattle-victoria-ferry/) operate a ferry from Seattle to Victoria.  
+
+<br>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1dw9U9NW2JYYAZRIlnR67GinF5Hsa8Ein&hl=en" width="100%" height="480"></iframe>

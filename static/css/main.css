@@ -3137,6 +3137,8 @@
 
 	#sidebar ul li {
 		list-style: none;
+		margin-left: -1em;
+		padding-left: -1em;
 		font-size: 1.35em;
 		line-height: 1.5em;
 	}
