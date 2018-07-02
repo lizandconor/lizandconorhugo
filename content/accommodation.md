@@ -6,7 +6,7 @@ draft: false
 
 There are a lot of great accommodation options in Victoria --- here are a few suggestions.
 Note that the Friday night drinks will be in downtown Victoria,
-and on Saturday we will arrange a bus from the DoubleTree Hotel to the Beach House and back.
+and on Saturday we will arrange a bus from the DoubleTree hotel to the Beach House and back.
 
 ## DoubleTree by Hilton
 We have arranged a 15% discount for wedding guests at the [DoubleTree by Hilton Hotel & Suites Victoria](http://doubletree3.hilton.com/en/hotels/british-columbia/doubletree-by-hilton-hotel-and-suites-victoria-YYJDSDT/index.html) between 25-29 April.
