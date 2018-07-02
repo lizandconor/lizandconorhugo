@@ -17,12 +17,13 @@ Finger food and drinks in downtown Victoria
 Wedding ceremony at **St David's Church**, Cordova Bay
 
  * St David's is a 20 minute drive from downtown Victoria
+ * A bus will take guests from the DoubleTree hotel to St David's
 
 ### Evening (_until 12:30 am_)
 Reception at the **Beach House**, Cordova Bay
 
  * The Beach House is a 5 minute walk from St David's church
- * A bus will take guests back to Victoria city centre around 1 am
+ * A bus will take guests back to the DoubleTree hotel around 1 am
  * Cars may be left at the Beach House overnight
 
 <br>
