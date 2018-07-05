@@ -28,7 +28,7 @@ For a once-in-a-lifetime experience, you can fly by sea plane between Vancouver 
 
 ### From Vancouver
 
- * [BC Ferries](https://www.bcferries.com) operates a service from Tsawassen (1 hour drive from Vancouver) to Swartz Bay (40 minute drive from Victoria)
+ * [BC Ferries](https://www.bcferries.com) operates a service from Tsawwassen (1 hour drive from Vancouver) to Swartz Bay (40 minute drive from Victoria)
  * The [BC Ferries Connector](http://bcfconnector.com/) is a coach service between Vancouver and Victoria bus stations. The fare includes the ferry ticket.
  * [V2V](https://www.v2vvacations.com/) are a relatively new service operating between Vancouver harbour and Victoria harbour  
 
