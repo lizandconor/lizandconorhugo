@@ -5,22 +5,21 @@ draft: false
 ---
 
 ## Friday 26 April 2019
+### Evening Gathering
 
-### 8 - 11 pm (_TBC_)
-Finger food and drinks in downtown Victoria
-
- * Venue to be confirmed
+Join us for finger food and drinks at [10 Acres Bistro](http://www.10acresbistro.ca) from 8:30 pm onwards.
 
 ## Saturday 27 April 2019
-### Afternoon (_Time to be confirmed_)
+### Wedding Ceremony
 
-Wedding ceremony at **St David's Church**, Cordova Bay
+Our wedding ceremony will be at [St David-by-the-Sea Church](https://www.twosaintschurch.ca/about-us/our-locations--4/pages/st-david-by-the-sea-cordova-bay), and will start around 3:30---4 pm (TBC).
 
  * St David's is a 20 minute drive from downtown Victoria
- * A bus will take guests from the DoubleTree hotel to St David's
+ * A bus will collect guests from the DoubleTree hotel at 2:30 pm (TBC)
 
-### Evening (_until 12:30 am_)
-Reception at the **Beach House**, Cordova Bay
+### Reception
+
+Our reception will be held at the [Beach House Restaurant](http://www.beachhousevictoria.com/).
 
  * The Beach House is a 5 minute walk from St David's church
  * A bus will take guests back to the DoubleTree hotel around 1 am
