@@ -5,14 +5,14 @@ draft: false
 ---
 
 ## Friday 26 April 2019
-### Evening Gathering
+### Welcome Drinks
 
-Join us for finger food and drinks at [10 Acres Bistro](http://www.10acresbistro.ca) from 8:30 pm onwards.
+Join us for drinks and appetizers at [10 Acres Bistro Bar](http://www.10acresbistro.ca) from 8:30 pm onwards.
 
 ## Saturday 27 April 2019
 ### Wedding Ceremony
 
-Our wedding ceremony will be at [St David-by-the-Sea Church](https://www.twosaintschurch.ca/about-us/our-locations--4/pages/st-david-by-the-sea-cordova-bay), and will start around 3:30---4 pm (TBC).
+Our wedding ceremony will be at [St David by-the-Sea Church](https://www.twosaintschurch.ca/about-us/our-locations--4/pages/st-david-by-the-sea-cordova-bay), and will start around 3:30---4 pm (TBC).
 
  * St David's is a 20 minute drive from downtown Victoria
  * A bus will collect guests from the DoubleTree hotel at 2:30 pm (TBC)

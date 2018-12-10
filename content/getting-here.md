@@ -9,6 +9,7 @@ Guests coming from Ireland, the UK and other [visa-exempt countries](https://www
 You can apply for an eTA on the [Government of Canada website](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html).
 The application process costs CAD $7 and only takes a few minutes.
 
+Visitors to the USA may need to apply for an [ESTA](https://esta.cbp.dhs.gov/esta/).
 ## Flights
 
 ### Airports
@@ -21,7 +22,7 @@ The most convenient airports for Victoria are listed below.
 
 ### Sea Plane
 
-For a once-in-a-lifetime experience, you can fly by sea plane between Vancouver and Victoria with [Harbour Air](https://www.harbourair.com)
+For a once-in-a-lifetime experience, you can fly by float plane between Vancouver and Victoria with [Harbour Air](https://www.harbourair.com)
 
 
 ## Ferries
