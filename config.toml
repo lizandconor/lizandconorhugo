@@ -121,7 +121,7 @@ paginate = 10
 	[params.contact]
 		hide  = true
 		title = "Contact Us"
-		content = "Use this form to ask questions, RSVP or say hello and we'll email you back!"
+		content = "Use this form to say hello or ask questions and we'll email you back!"
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = ""
