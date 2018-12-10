@@ -26,6 +26,9 @@ Our reception will be held at the [Beach House Restaurant](http://www.beachhouse
  * Cars may be left at the Beach House overnight
 
 <br>
+*Children are welcome at all events*
+
+<br>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1YTNMBcE8uDe74R4PHDETdcJE_7yyMOoy" width="100%" height="480"></iframe>
 <br>
