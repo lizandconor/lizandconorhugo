@@ -11,7 +11,7 @@ paginate = 10
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Liz & Conor's wedding site"
+	name = "Liz & Conor's wedding website"
 	description = "Victoria, BC, Canada - 27 April 2019"
 
 	# Format dates with Go's time formatting
@@ -51,10 +51,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Home"
+		title = "Welcome"
 		content = '<br> Welcome to our wedding website! We are getting married on 27 April 2019 in Victoria, BC, Canada. <br> <br> <iframe src="https://www.google.com/maps/d/embed?mid=1YTNMBcE8uDe74R4PHDETdcJE_7yyMOoy" width="100%" height="480"></iframe><br>'
-
-
 
 	[params.portfolio]
 		hide  = true
@@ -179,6 +177,11 @@ paginate = 10
 	weight = 5
 
 [[menu.main]]
+	name = "Gifts"
+	url  = "gifts"
+	weight = 6
+
+[[menu.main]]
 	name = "Contact Us"
 	url  = "contact"
-	weight = 6
+	weight = 7
