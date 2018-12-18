@@ -12,10 +12,10 @@ Join us for drinks and appetizers at [10 Acres Bistro Bar](http://www.10acresbis
 ## Saturday 27 April 2019
 ### Wedding Ceremony
 
-Our wedding ceremony will be at [St David by-the-Sea Church](https://www.twosaintschurch.ca/about-us/our-locations--4/pages/st-david-by-the-sea-cordova-bay), and will start around 3:30---4 pm (TBC).
+Our wedding ceremony will be at [St David by-the-Sea Anglican Church](https://www.twosaintschurch.ca/about-us/our-locations--4/pages/st-david-by-the-sea-cordova-bay), and will start at 3:30 pm.
 
  * St David's is a 20 minute drive from downtown Victoria
- * A bus will collect guests from the DoubleTree hotel at 2:30 pm (TBC)
+ * We have arranged a bus to take guests from outside the DoublTree hotel to St David's
 
 ### Reception
 
