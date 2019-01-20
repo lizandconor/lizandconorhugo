@@ -1,17 +1,20 @@
 ---
 title: "Things to Do"
-date: 2018-05-21T20:10:16-07:00
+date: 2019-01-19T20:10:16-07:00
 draft: false
 ---
 
 We have listed some sightseeing ideas and useful links below.
 
  * [Victoria sightseeing](https://www.tourismvictoria.com/)
+ * [Victoria hiking](https://www.victoriatrails.com/)
  * [Vancouver sightseeing](https://www.tourismvancouver.com/)
- * [British Columbia tourism](https://www.hellobc.com/)
+ * [Vancouver hiking](https://www.vancouvertrails.com/)
+ * [British Columbia sightseeing](https://www.hellobc.com/)
  * [Indigenous Tourism BC](https://www.indigenousbc.com/)
+ * [Sea to Sky Gondola, Squamish, BC](https://www.seatoskygondola.com/)
  * [Victoria Ale Trail](https://bcaletrail.ca/ale-trails/victoria/)
- * [Butchart Gardens](https://www.butchartgardens.com/)
+ * [Butchart Gardens, Victoria](https://www.butchartgardens.com/)
  * [Whale watching](https://www.hellobc.com/things-to-do/whale-watching)
- * [Skiing at Whistler-Blackcomb](https://www.whistlerblackcomb.com/) (_Whistler mountain remains open until 27 May. Blackcomb mountain closes on 23 April._)
- * [Banff and Lake Louise](https://www.banfflakelouise.com/)
+ * [Skiing at Whistler-Blackcomb](https://www.whistlerblackcomb.com/)
+ * [Banff and Lake Louise, Alberta](https://www.banfflakelouise.com/)
